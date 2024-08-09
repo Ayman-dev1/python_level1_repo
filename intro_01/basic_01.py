@@ -17,12 +17,12 @@ print('---------------- float data type ----------------------')
 student_mark = 97.6
 
 print(student_mark)
-print( type(student_mark) )
+print(type(student_mark))
 
 print('-------- string data type ---------------')
 student_name = 'Ahmed Omar'
 print(student_name)
-print(   type(student_name)  )
+print(type(student_name))
 
 print('-------------- Concatenation in python -------------------------')
 student_city = 'Alexandria'
